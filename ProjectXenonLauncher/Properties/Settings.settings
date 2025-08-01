@@ -1,0 +1,75 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ProjectXenonLauncher.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Locale" Type="System.String" Scope="User">
+      <Value Profile="(Default)">en-US</Value>
+    </Setting>
+    <Setting Name="HeadRGB" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">245, 205, 48</Value>
+    </Setting>
+    <Setting Name="HeadID" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="LeftArmRGB" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">245, 205, 48</Value>
+    </Setting>
+    <Setting Name="LeftArmID" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="TorsoRGB" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">13, 105, 172</Value>
+    </Setting>
+    <Setting Name="TorsoID" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">23</Value>
+    </Setting>
+    <Setting Name="RightArmRGB" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">245, 205, 48</Value>
+    </Setting>
+    <Setting Name="RightArmID" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="LeftLegRGB" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">75, 151, 75</Value>
+    </Setting>
+    <Setting Name="LeftLegID" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">37</Value>
+    </Setting>
+    <Setting Name="RightLegRGB" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">75, 151, 75</Value>
+    </Setting>
+    <Setting Name="RightLegID" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">37</Value>
+    </Setting>
+    <Setting Name="KeepLauncherOpen" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Username" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Player</Value>
+    </Setting>
+    <Setting Name="ID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Hat1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Hat2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Hat3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Shirt" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Pants" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Tshirt" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Face" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
