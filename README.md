@@ -4,8 +4,8 @@ XeO₂ Launcher source, released under the GNU GPL. Official builds only come fr
 # Build instructions
 1) Git clone this repository or download as a zip.
 2) Install [Visual Studio 2022 Community](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false) and select the .NET desktop development workload in the installer.
-3) In the meantime, download the latest release of the launcher for the ROBLOX game clients.
-4) Once installed, open the project .sln file in Visual Studio. Place the ROBLOX client folders from the Release into your source bin/Release
+3) In the meantime, download the latest release of the launcher for certain files (which have been omitted for upload/download conveniency)
+4) Once installed, open the project .sln file in Visual Studio. Place the folders from the Release into your source bin/Release
 5) You should now be able to compile under the Release profile.
 
 # Credits
